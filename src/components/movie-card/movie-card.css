@@ -1,0 +1,27 @@
+.my-masonry-grid {
+    display: flex;
+    margin-left: -30px; 
+    width: auto;
+}
+
+.my-masonry-grid_column {
+    padding-left: 30px; 
+    background-clip: padding-box;
+}
+  
+.my-masonry-grid_column > div {
+    margin-bottom: 30px;
+}
+
+.hover-effect {
+    cursor: pointer;
+}
+
+.card-function-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.like-margin {
+    margin-right: 2px;
+}

@@ -1,0 +1,9 @@
+.main-wrapper {
+    padding: 15px;
+}
+
+.filters-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
